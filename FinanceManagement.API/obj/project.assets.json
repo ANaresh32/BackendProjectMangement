@@ -2802,11 +2802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\BackendFinanceManagement\\FinanceManagement.API\\FinanceManagement.API.csproj",
+      "projectUniqueName": "C:\\Users\\Archents\\Desktop\\BackendProjectMangement\\FinanceManagement.API\\FinanceManagement.API.csproj",
       "projectName": "FinanceManagement.API",
-      "projectPath": "D:\\Project\\BackendFinanceManagement\\FinanceManagement.API\\FinanceManagement.API.csproj",
+      "projectPath": "C:\\Users\\Archents\\Desktop\\BackendProjectMangement\\FinanceManagement.API\\FinanceManagement.API.csproj",
       "packagesPath": "C:\\Users\\Archents\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\BackendFinanceManagement\\FinanceManagement.API\\obj\\",
+      "outputPath": "C:\\Users\\Archents\\Desktop\\BackendProjectMangement\\FinanceManagement.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2828,11 +2828,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Project\\BackendFinanceManagement\\FinanceManagement.DATA\\FinanceManagement.DATA.csproj": {
-              "projectPath": "D:\\Project\\BackendFinanceManagement\\FinanceManagement.DATA\\FinanceManagement.DATA.csproj"
+            "C:\\Users\\Archents\\Desktop\\BackendProjectMangement\\FinanceManagement.DATA\\FinanceManagement.DATA.csproj": {
+              "projectPath": "C:\\Users\\Archents\\Desktop\\BackendProjectMangement\\FinanceManagement.DATA\\FinanceManagement.DATA.csproj"
             },
-            "D:\\Project\\BackendFinanceManagement\\FinanceManagement.SERVICES\\FinanceManagement.SERVICES.csproj": {
-              "projectPath": "D:\\Project\\BackendFinanceManagement\\FinanceManagement.SERVICES\\FinanceManagement.SERVICES.csproj"
+            "C:\\Users\\Archents\\Desktop\\BackendProjectMangement\\FinanceManagement.SERVICES\\FinanceManagement.SERVICES.csproj": {
+              "projectPath": "C:\\Users\\Archents\\Desktop\\BackendProjectMangement\\FinanceManagement.SERVICES\\FinanceManagement.SERVICES.csproj"
             }
           }
         }
@@ -2895,7 +2895,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
