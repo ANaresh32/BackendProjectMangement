@@ -1,6 +1,8 @@
 ﻿using FinanceManagement.CORE.Entities;
 using FinanceManagement.DATA.IRepo;
 using FinanceManagement.SERVICES.Interface;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace FinanceManagement.SERVICES.Services
 {
@@ -30,5 +32,18 @@ namespace FinanceManagement.SERVICES.Services
 
         public async Task<IEnumerable<EmployeeProject>> GetEmployeeProjectsAsync(Guid employeeId) =>
             await _employeeProjectRepository.FindAsync(ep => ep.EmployeeId == employeeId);
+
+        public async Task<Employee> AuthenticateAsync(string email, string password)
+        {
+            var employee = await _employeeRepository.GetByEmailAsync(email);
+
+            // Check if employee exists and password matches (assuming PasswordHash is stored securely)
+            if (employee != null && employee.PasswordHash == password)
+            {
+                return employee;
+            }
+
+            return null;
+        }
     }
 }
