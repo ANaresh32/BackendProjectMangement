@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ttD/Ig7NQXG14JKtkAzKtVU4TqiXLF/8T5y1lVPm5GOHzO66v3JTkS8Hi69mUTFUPOeuCe7SZt9GklalgbEPpw==",
+  "dgSpecHash": "12DMEaRmwR+K7bs6hMi+Bkkw2b4NEuM/0E30okf/7qvH9OH7FZ+uDYjizeNJC6/DQgApcKMZOkNKF/reqDrfRg==",
   "success": true,
-  "projectFilePath": "D:\\Project\\FinanceManagementAPI\\FinanceManagement.DATA\\FinanceManagement.DATA.csproj",
+  "projectFilePath": "D:\\finaceProject\\BackendProjectMangement\\FinanceManagement.DATA\\FinanceManagement.DATA.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

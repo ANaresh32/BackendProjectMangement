@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sips7Mt/59zVl5FylGHy+1BqvnHNrHVd5nNoTauF16SYnhulaOJiqfNqZyNJh28tFzvsG1PC3Zfy9VyXBkWsrA==",
+  "dgSpecHash": "BVFlXIjwUVAnB0eKsoRFvGlBiBr8ElOVOpOq++/vlytl7FQoVWE/sTCXi70yb1TyMs54TfyBQ5DL/D+PCm+XbQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\FinanceManagementAPI\\FinanceManagement.DOMAIN\\FinanceManagement.DOMAIN.csproj",
+  "projectFilePath": "D:\\finaceProject\\BackendProjectMangement\\FinanceManagement.DOMAIN\\FinanceManagement.DOMAIN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Archents\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
     "C:\\Users\\Archents\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hBR76k9bDqSiBIyId6xdPyzKZiY3qk5Ug/gSQtvkZ9jBqZascO2e6hL5zvj03VwPQZgvvTe0zNMKLZLvduZBZg==",
+  "dgSpecHash": "B7V9CCNiU93ZrmmmMxG/85GLLKK2762Av9VLS4/7uvpbr/abStPw9aMHrk9w1vBySPdik8DG3+kuIiiagI/igQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\FinanceManagementAPI\\FinanceManagement.API\\FinanceManagement.API.csproj",
+  "projectFilePath": "D:\\finaceProject\\BackendProjectMangement\\FinanceManagement.API\\FinanceManagement.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Archents\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Archents\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
