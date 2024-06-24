@@ -52,7 +52,7 @@ namespace FinanceManagement.DOMAIN.Repository
             {
                 throw new Exception("Project Name already exsits");
             }
-            Guid id = new Guid();
+            //Guid id = new Guid();
             project.CreatedDate = DateTime.UtcNow;
 
             await _context.Projects.AddAsync(project);
@@ -97,7 +97,7 @@ namespace FinanceManagement.DOMAIN.Repository
         }
         public async Task<Project> GetProjectByIdAsync(Guid id)
         {
-            return await _context.Projects.Include(p => p.EmployeeId).FirstOrDefaultAsync(p => p.EmployeeId == id);
+            return await _context.Projects.Include(p => p.id).FirstOrDefaultAsync(p => p.id == id);
         }
 
         public async Task AddProjectAsync(Project project)
