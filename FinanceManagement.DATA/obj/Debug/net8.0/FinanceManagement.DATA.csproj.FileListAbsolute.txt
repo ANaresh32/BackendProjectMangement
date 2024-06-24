@@ -9,3 +9,15 @@ D:\Project\FinanceManagementAPI\FinanceManagement.DATA\obj\Debug\net8.0\FinanceM
 D:\Project\FinanceManagementAPI\FinanceManagement.DATA\obj\Debug\net8.0\refint\FinanceManagement.DATA.dll
 D:\Project\FinanceManagementAPI\FinanceManagement.DATA\obj\Debug\net8.0\FinanceManagement.DATA.pdb
 D:\Project\FinanceManagementAPI\FinanceManagement.DATA\obj\Debug\net8.0\ref\FinanceManagement.DATA.dll
+D:\finaceProject\BackendProjectMangement\FinanceManagement.DATA\bin\Debug\net8.0\FinanceManagement.DATA.deps.json
+D:\finaceProject\BackendProjectMangement\FinanceManagement.DATA\bin\Debug\net8.0\FinanceManagement.DATA.dll
+D:\finaceProject\BackendProjectMangement\FinanceManagement.DATA\bin\Debug\net8.0\FinanceManagement.DATA.pdb
+D:\finaceProject\BackendProjectMangement\FinanceManagement.DATA\obj\Debug\net8.0\FinanceManagement.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\finaceProject\BackendProjectMangement\FinanceManagement.DATA\obj\Debug\net8.0\FinanceManagement.DATA.AssemblyInfoInputs.cache
+D:\finaceProject\BackendProjectMangement\FinanceManagement.DATA\obj\Debug\net8.0\FinanceManagement.DATA.AssemblyInfo.cs
+D:\finaceProject\BackendProjectMangement\FinanceManagement.DATA\obj\Debug\net8.0\FinanceManagement.DATA.csproj.CoreCompileInputs.cache
+D:\finaceProject\BackendProjectMangement\FinanceManagement.DATA\obj\Debug\net8.0\FinanceManagement.DATA.sourcelink.json
+D:\finaceProject\BackendProjectMangement\FinanceManagement.DATA\obj\Debug\net8.0\FinanceManagement.DATA.dll
+D:\finaceProject\BackendProjectMangement\FinanceManagement.DATA\obj\Debug\net8.0\refint\FinanceManagement.DATA.dll
+D:\finaceProject\BackendProjectMangement\FinanceManagement.DATA\obj\Debug\net8.0\FinanceManagement.DATA.pdb
+D:\finaceProject\BackendProjectMangement\FinanceManagement.DATA\obj\Debug\net8.0\ref\FinanceManagement.DATA.dll
